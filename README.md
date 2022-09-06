@@ -7,6 +7,9 @@ GUI.py uses pygame to create a GUI and to visualize how the sudoku board is bein
 When the GUI is running, press BACKSPACE and the GUI will solve the board in real time and show the backtracking aspect of the algorithm.
 *pygame required
 
+DEMO VIDEO 
+https://www.youtube.com/watch?v=LhDDtoX1LE8
+
 https://user-images.githubusercontent.com/98550319/155727515-72cb48d0-02ef-49fc-b0ad-a3983441ea57.mp4
 
 
